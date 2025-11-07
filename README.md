@@ -22,8 +22,8 @@ Paste any news content or article, and the app will:
 ---
 
 ## 🎯 Live Demo (Hugging Face Spaces)
-*(Replace with your deployed link)*  
-👉 https://huggingface.co/spaces/yourusername/fake-news-detector
+
+👉 https://huggingface.co/spaces/Parv2608/fake-news-detector
 
 ---
 
